@@ -85,12 +85,12 @@ h1{
    
 }
 
-.Social-Section{}
+.Service-Section{}
 
-.Social-Container{
+.Service-Container{
     
     width:90%;
-    height:120px;
+    height:auto;
     margin-right: auto;
     margin-left: auto;
     display:flex;
@@ -98,9 +98,10 @@ h1{
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   
 }
-.Div-Social-Info{
+.Div-Service-Info{
     text-align: center;
-    width:33.33%;   
+    width:33.33%; 
+    padding: 30px;  
 }
 
 .Discount-Section{
